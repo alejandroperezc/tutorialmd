@@ -18,3 +18,11 @@ Y esto es otro párrafo.
 Para agregar citas en Markdown debes agregar el signo mayor > justo delante de una línea o de un párrafo:
 
 > Siento dejar este mundo sin probar pipas Facundo
+## ESTILOS DE TEXTO
+### NEGRITA
+Para escribir un texto en negrita, hay que poner dos asteriscos (**) o dos barras bajas (__) al principio y al final del texto. Por ejemplo:
+Esto es un **texto en negrita**.
+Esto es un texto parcialmente en ne**gri**ta.
+
+Esto es un __texto en negrita__.
+Esto es un texto parcialmente en ne__gri__ta.
