@@ -8,8 +8,9 @@ Hay cabeceras de hasta 6 niveles
 * H4
 * H5
 * H6
+## PÁRRAFOS
+Para crear un nuevo párrafo en Markdown basta con que dejes una línea en blanco entre una o más líneas de texto, tal y como ves en este ejemplo:
 
-uygikgyjguj
-dsfsdaf
-fsd
-dsafadsf
+Este es un párrafo.
+
+Y esto es otro párrafo.
