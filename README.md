@@ -14,3 +14,7 @@ Para crear un nuevo párrafo en Markdown basta con que dejes una línea en blanc
 Este es un párrafo.
 
 Y esto es otro párrafo.
+## CITAS
+Para agregar citas en Markdown debes agregar el signo mayor > justo delante de una línea o de un párrafo:
+
+> Siento dejar este mundo sin probar pipas Facundo
